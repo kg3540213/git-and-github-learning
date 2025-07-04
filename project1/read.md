@@ -1,0 +1,2 @@
+# LEARN
+I AM CURRENTLY LEARNING git and github
